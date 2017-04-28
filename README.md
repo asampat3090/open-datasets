@@ -4,7 +4,8 @@ Open Datasets
 [This list of public data
 sources](https://github.com/acusense/open-datasets) are
 collected and tidied from blogs, answers, and user responses.
-We have designated those that are NOT free (paid or require some credentials) as "(paid)" or "(credentials)"
+We have designated each dataset as "single" or "collection" and
+have designated each dataset as "free", "paid" or "credentials" (if you need to sign in to access the data but it's still free)
 
 Agriculture
 -----------
