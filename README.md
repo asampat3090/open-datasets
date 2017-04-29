@@ -6,6 +6,15 @@ sources](https://github.com/acusense/open-datasets) are
 collected and tidied from blogs, answers, and user responses.
 We have designated those that are NOT free (paid or require some credentials) as "(paid)" or "(credentials)"
 
+General
+-------
+-   [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) "collection" "free"
+-   [Socrata Open Datasets](https://dev.socrata.com/consumers/getting-started.html) "collection" "free"
+-   [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)   "collection" "free"
+-   [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research) "collection" "free"
+-   [Lexical Database for English](http://wordnet.princeton.edu/wordnet/download/) "single" "free"
+-   [Wolfram Data Repository](https://datarepository.wolframcloud.com/) "collection" "free"
+
 Agriculture
 -----------
 
