@@ -9,6 +9,7 @@ have designated each dataset as "free", "paid" or "credentials" (if you need to 
 
 General
 -------
+-   [Structured Wikipedia Data](http://wiki.dbpedia.org/about) "collection" "free" "GNU License"
 -   [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) "collection" "free"
 -   [Socrata Open Datasets](https://dev.socrata.com/consumers/getting-started.html) "collection" "free"
 -   [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)   "collection" "free"
