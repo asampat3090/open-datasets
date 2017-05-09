@@ -9,6 +9,7 @@ have designated each dataset as "free", "paid" or "credentials" (if you need to 
 
 General
 -------
+-   [Cornell Natural Language Visual Reasoning Dataset](http://lic.nlp.cornell.edu/nlvr/) "single" "free"
 -   [Structured Wikipedia Data](http://wiki.dbpedia.org/about) "collection" "free" "GNU License"
 -   [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) "collection" "free"
 -   [Socrata Open Datasets](https://dev.socrata.com/consumers/getting-started.html) "collection" "free"
